@@ -15,3 +15,12 @@ git commit -m "message"
 - Wrap lines at 72 characters
 - Use the body to explain what and why you have done something.
 - In most cases, you can leave out details about how a change has been made.
+
+# initialse a new repo
+
+- Create a directory to contain the project.
+- Go into the new directory.
+- Type git init.
+- Write some code.
+- Type git add to add the files.
+- Type git commit.
